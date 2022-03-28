@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include <GL/glut.h>
+#include<GL/glut.h>
 #include<math.h>
 #include<time.h>
 #include<windows.h>
